@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+
+# ChromaDB (regenerated on init)
+chroma_db/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+
+# Outputs
+outputs/
+*.log
+
+# Pytest
+.pytest_cache/
